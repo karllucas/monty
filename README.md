@@ -22,5 +22,7 @@ be a resource to collect the best solutions.</p>
 <p dir="auto">Monty supports Python 3.x.</p>
 <p dir="auto">Please visit the <a href="https://materialsvirtuallab.github.io/monty" rel="nofollow">official docs</a> for more information.</p>
 
+![Monty logo](http://montyscoconut.github.io/assets/ico/avatar.png)
+
 </article>
 
