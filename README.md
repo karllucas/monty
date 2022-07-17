@@ -18,3 +18,5 @@ Monty is thought to unite both worlds, without suffering legacy oddities from ot
 <li>rapid implementation of application ideas (comfort)</li>
 <li>compiled language (quick execution)</li>
 </ul>
+
+<p><img src="[https://camo.githubusercontent.com/349d47b359c21448b0415bfdb1ec6ae1db87b60a55243b187d514d0071f930ad/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f7648314854486871374249457568494475456332577263324c675a6967734a455744523536414c754446525a76392d6a714367484e4875424849422d664c727262777037744a3862377165494a6f3056744855683d7330](http://montyscoconut.github.io/assets/ico/avatar.png)" alt="Monty logo" style="max-width: 100%;"></p>
