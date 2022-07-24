@@ -1,4 +1,4 @@
-# Stacks, Queues - LIFO, FIFO (A Monty Coconut Project)
+# Stacks, Queues - LIFO, FIFO (A Monty Project)
 
 ![Monty logo](http://montyscoconut.github.io/assets/ico/avatar.png)
 
